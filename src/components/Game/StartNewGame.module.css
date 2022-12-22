@@ -1,0 +1,64 @@
+.container
+{
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    box-sizing: border-box;
+}
+.mainTitle
+{
+    margin-top: 2rem;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    color: #333333;
+}
+.tagTitle
+{
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 32px;
+    letter-spacing: -0.05em;
+    color: #333333;
+    margin-bottom: 2rem;
+}
+.Form span
+{
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    color: #333333;
+}
+.Form input
+{    
+    background: #F4F4F4;
+    border-radius: 8px;
+    padding: 1.2rem;
+}
+.submitButton
+{
+    border: none;
+    background: #F2C94C;
+    box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 8px;
+    font-family: 'Epilogue';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 14px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 1rem;
+    position: fixed;
+    bottom: 20px;
+    left: 5px;
+    right: 5px;
+    width: 100%;
+}
